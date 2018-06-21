@@ -2,9 +2,17 @@
 
 ## About  
 
-maquinitas-notes collects tips for operating the instruments.  
+maquinitas-notes is a part of maquinitas, aproject by [Aarón Montoya-Moraga].
 
-## Instruments  
+maquinitas-notes is a collection of useful notes for specific MIDI instrument, based on the original manufacturer's manuals.
+
+If you see any mistake, please report it to Aarón via e-mail or GitHub.
+
+## Available notes  
+
+* Roland TR-09
+
+## In progress
 
 * Alesis SR-16
 * Bastl microGranny 2
