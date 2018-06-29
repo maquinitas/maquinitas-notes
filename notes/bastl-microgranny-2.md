@@ -1,6 +1,5 @@
 # BASTL microGranny 2
 
-
 ## Power
 
 The microGranny can be powered with a 9 volt battery or with a 9 volt DC center-positive power supply.
