@@ -29,7 +29,7 @@ Edit button: use this button to toggle between the edit and play modes. edit mod
 
 ## Specifying global parameter settings
 
-Setting the midi channel:
+Setting the MIDI channel:
 * While holding down the memory button, turn the volca fm on.
 * Keyboard buttons 1 to 16 correspond to the midi channels 1 to 16. Press the button that corresponds to the desired channel, and the LED below the keyboard button will light up.
 
@@ -38,7 +38,7 @@ Other parameters:
 * Use the keyboard buttons 1-8 to set your preferences for any or all of the global parameters.
 * When you have finished, press the rec button. your settings will be saved, and the volca fm will restart. to cancel without making changes, press the play button.
 
-With led lit:
+With LED lit:
 
 |Button|Parameter              |Status              |Display indication|
 |------|-----------------------|--------------------|------------------|
@@ -51,7 +51,7 @@ With led lit:
 |7     |MIDI rx shortmessage   |*on                 |mdshrt on         |
 |8     |sync input/output unit |once a step         |syncstp 1         |
 
-with led unlit:
+with LED unlit:
 
 |Button|Parameter              |Status             |Display indication|
 |------|-----------------------|-------------------|------------------|
