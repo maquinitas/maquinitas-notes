@@ -2,15 +2,15 @@
 
 ## About  
 
-maquinitas-notes is a part of maquinitas, aproject by [Aarón Montoya-Moraga].
+maquinitas-notes is a collection of useful notes for specific MIDI instruments, based on the original manufacturer's manuals.
 
-maquinitas-notes is a collection of useful notes for specific MIDI instrument, based on the original manufacturer's manuals.
+[maquinitas-notes](https://github.com/maquinitas/maquinitas-notes) is part of [maquinitas](https://github.com/maquinitas), a project by [Aarón Montoya-Moraga](http://montoyamoraga.io/).
 
-If you see any mistake, please report it to Aarón via e-mail or GitHub.
+If you see any mistake, please report it to to the author via GitHub issues, pull requests or via email.
 
 ## Available notes  
 
-* Roland TR-09
+* [Roland TR-09](notes/roland-tr-09.txt)
 
 ## In progress
 
