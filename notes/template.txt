@@ -2,7 +2,7 @@
 
 ## Installation
 
-## Power  
+## Power
 
 ## Jacks, switches and knobs
 
@@ -12,16 +12,13 @@
 
 ## Overview
 
-
-## Playing sounds  
-
+## Playing sounds
 
 ## Editing the sound
 
-
 ## Factory Reset
 
-## System Settings  
+## System Settings
 
 ## MIDI implementation chart
 
