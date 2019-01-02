@@ -4,7 +4,7 @@
 
 To use the Roland TR-09 as an audio and MIDI interface through USB, download and install the driver from the [Roland TR-09 official site](https://www.roland.com/global/products/tr-09/downloads/).
 
-## Power  
+## Power
 
 The Roland TR-09 can be powered with four AA batteries or through a micro-USB cable.
 
@@ -94,17 +94,17 @@ The Roland TR-09 can be powered with four AA batteries or through a micro-USB ca
 
 ## Overview
 
-The TR-09 has 96 "patterns" and eight "tracks" in which these patterns can be arranged.  
+The TR-09 has 96 "patterns" and eight "tracks" in which these patterns can be arranged.
 
 Pattern (96) = Bank (2) * Group (3) * Pattern (16)
 
 Track (8) = Bank (2) * Track (4)
 
 Buttons for switching mode:
-* [SHIFT]  
-* [TRACK PLAY]  / [TRACK WRITE] (1, 2, 3, 4)  
-* [PATTERN PLAY]  / [PATTERN WRITE] (1, 2, 3)  
-* [FWD] [AVAILABLE MEAS] / [BANK] (I, II)  
+* [SHIFT]
+* [TRACK PLAY]  / [TRACK WRITE] (1, 2, 3, 4)
+* [PATTERN PLAY]  / [PATTERN WRITE] (1, 2, 3)
+* [FWD] [AVAILABLE MEAS] / [BANK] (I, II)
 
 |Mode                  |Operation                                     |
 |----------------------|----------------------------------------------|
@@ -114,9 +114,9 @@ Buttons for switching mode:
 |Track write (edit)    |(1) [SHIFT] + (2) TRACK PLAY [1]-[4] buttons  |
 |Switching the bank    |1) [SHIFT] + (4) BANK [I], [II] button        |
 
-## Playing sounds  
+## Playing sounds
 
-In track play mode you can use the main keys [1]-[16] to perform in real time.  
+In track play mode you can use the main keys [1]-[16] to perform in real time.
 
 For BASS DRUM, SNARE DRUM, TOM and HI-HAT, the left key is "accented" and the right key is "unaccented".
 
@@ -133,10 +133,10 @@ For HI-HAT, simultaneously pressing [13] and [14] plays the open hi-hat.
 
 ## Editing the sound
 
-How to edit parameters that don't have a knob:  
+How to edit parameters that don't have a knob:
 
-* Hold down the [SHIFT] button and press the [EDIT] button.  
-* Use the [TEMPO] dial to select the parameter. Value appears.  
+* Hold down the [SHIFT] button and press the [EDIT] button.
+* Use the [TEMPO] dial to select the parameter. Value appears.
 
 |Parameter|Explanation   |
 |---------|--------------|
@@ -144,34 +144,34 @@ How to edit parameters that don't have a knob:
 |TUNE     |Tuning (pitch)|
 |DECAY    |Decay length  |
 
-* Press the [ENTER] button, to confirm the parameters.  
-* Press a main key [1]-[16] to select the sound that you want to edit.  
-* Use the [TEMPO] dial to set the value.  
-* Press the [EDIT] OR [ENTER] button, to exit the edit.  
+* Press the [ENTER] button, to confirm the parameters.
+* Press a main key [1]-[16] to select the sound that you want to edit.
+* Use the [TEMPO] dial to set the value.
+* Press the [EDIT] OR [ENTER] button, to exit the edit.
 
-## Editing the compressor level  
+## Editing the compressor level
 
 You can apply a compressor to the BASS DRUM and SNARE DRUM.
 
-* Press the [COMP] button. The editable main keys [1]-[4] are lit.  
-* Press a main key to select BASS DRUM (1-2) or SNARE DRUM (3-4).  
-* Use the [TEMPO] dial to set the compressor level. To turn the compressor off, turn the knob all the way to the left.  
-* Press the [COMP] or [ENTER] button, to exit the edit.  
+* Press the [COMP] button. The editable main keys [1]-[4] are lit.
+* Press a main key to select BASS DRUM (1-2) or SNARE DRUM (3-4).
+* Use the [TEMPO] dial to set the compressor level. To turn the compressor off, turn the knob all the way to the left.
+* Press the [COMP] or [ENTER] button, to exit the edit.
 
-## Restoring the factory settings (Factory Reset)  
+## Restoring the factory settings (Factory Reset)
 
 Here's how to return the TR-09 to its factory-set state:
-* While holding down the [2] button, turn on the power. The [ENTER] button blinks. If you decide to cancel the factory reset, turn off the power.  
-* Press the [ENTER] button to execute the factory reset.  
-* When all buttons blink, turn the TR-09's power off, then on again.  
+* While holding down the [2] button, turn on the power. The [ENTER] button blinks. If you decide to cancel the factory reset, turn off the power.
+* Press the [ENTER] button to execute the factory reset.
+* When all buttons blink, turn the TR-09's power off, then on again.
 
-## System Settings  
+## System Settings
 
-* Press the [MENU] button to make it light.  
-* Use the [TEMPO] dial to select the parameter, and then press the [ENTER] button.  
-* Use the [TEMPO] dial to set the value.  
+* Press the [MENU] button to make it light.
+* Use the [TEMPO] dial to select the parameter, and then press the [ENTER] button.
+* Use the [TEMPO] dial to set the value.
 
-To exit the system settings, press the [MENU] button to make it go dark.  
+To exit the system settings, press the [MENU] button to make it go dark.
 
 |Display    |Parameter        |Value     |Explanation                       |
 |-----------|-----------------|----------|----------------------------------|
@@ -262,19 +262,6 @@ To exit the system settings, press the [MENU] button to make it go dark.
 |Aux Msg: System Reset         |x          |x         |                        |
 
 Notes:
-* 3: Same process as All Notes Off
-
-
-
-Modes:
-* 1: OMNI ON, POLY
-* 2: OMNI ON, MONO
-* 3: OMNI OFF, POLY
-* 4: OMNI OFF, MONO
-
-Signs:
-* o: Yes
-* x: No
 
 * 1:
 
@@ -292,7 +279,6 @@ Signs:
 |CRASH CYMBAL |49         |
 |RIDE CYMBAL  |51         |
 
-
 * 2:
 
 |Instrument   |Note Number|
@@ -308,3 +294,15 @@ Signs:
 |OPEN HI-HAT  |46         |
 |CRASH CYMBAL |49         |
 |RIDE CYMBAL  |51         |
+
+* 3: Same process as All Notes Off
+
+Modes:
+* 1: OMNI ON, POLY
+* 2: OMNI ON, MONO
+* 3: OMNI OFF, POLY
+* 4: OMNI OFF, MONO
+
+Signs:
+* o: Yes
+* x: No

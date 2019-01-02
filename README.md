@@ -11,6 +11,7 @@ If you see any mistake, please report it to to the author via GitHub issues, pul
 ## Available notes  
 
 * [Roland TR-08](notes/roland-tr-08.txt)
+* [Roland TR-09](notes/roland-tr-09.txt)
 
 ## In progress
 
@@ -27,7 +28,6 @@ If you see any mistake, please report it to to the author via GitHub issues, pul
 * Novation Bass Station II
 * Roland SH-01A
 * Roland TB-03
-* Roland TR-09
 * Roland TR-505
 * Waldorf Streichfett
 
