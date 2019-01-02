@@ -1,0 +1,102 @@
+# BOSS DR-880
+
+
+## Installation
+
+To control the Boss DR-880 with USB MIDI your Mac or Windows computer, install the driver from the "Downloads" section of the official [BOSS DR-880 website](https://www.boss.info/us/products/dr-880/).
+
+You can also use the USB DIN jacks in the back panel.
+
+## Power
+
+The BOSS DR-880 can be powered with a BOSS AC power supply, BRC series. Its model number is BRC-230T for 230V AC input and outputs 14V AC, 0.8 A, 11.2 VA.
+
+## Jacks, switches and knobs
+
+### Front panel
+
+* GUITAR/BASS INPUT: knob
+* PART LEVEL - DRUM: knob
+* PART LEVEL - BASS: knob
+* MASTER VOLUME: knob
+* VALUE: dial
+* GUITAR/BASS INPUT - EFFECT: button
+* GUITAR/BASS INPUT - TUNER: button
+* OUTPUT SETTING: button
+* SONG/PATTERN: button
+* KIT: button
+* PAD: button
+* CURSOR: buttons for up, down, left, right
+* SHIFT: button
+* DISPLAY: button
+* EDIT: button
+* EXIT: button
+* ENTER: button
+* RESET: button
+* REWIND: button
+* FAST-FORWARD: button
+* STOP: button
+* PLAY: button
+* REC: button
+* LOOP: button
+* KEY: button
+* TEMPO (TAP): button
+* EZ COMPOSE - PATTERN: button
+* EZ COMPOSE - CHORD PROGRESSION: button
+* EZ COMPOSE - FILL IN: button
+* GROOVE MODIFY: button
+* TSC (TOTAL SOUND CONTROL): button
+* 1 - E - KICK 1: pad
+* 2 - F - KICK 2: pad
+* 3 - F# - SNARE 1: pad
+* 4 - G - SNARE 2: pad
+* 5 - G# - CLOSED HH: pad
+* 6 - A - CROSS STICK: pad
+* 7 - A# - CLAP: pad
+* 8 - B - COWBELL: pad
+* 9 - C - PEDAL HH: pad
+* 10 - C# - OPEN HH: pad
+* 11 - D - TOM 1: pad
+* 12 - D# - TOM 2: pad
+* 13 - E - TOM 3: pad
+* 14 - F - TOM 4: pad
+* 15 - F# - CHINA CYM: pad
+* 16 - G - CRASH 1: pad
+* 17 - G# - CRASH 2: pad
+* 18 - A - SPLASH CYM: pad
+* 19 - A# - BELL: pad
+* 20 - B - RIDE: pad
+* FAVORITE 1: button
+* FAVORITE 2: button
+* FAVORITE 3: button
+* FAVORITE 4: button
+* BANK: button
+* PHONES: output jack
+* GUITAR/BASS INPUT: input jack
+
+### Back panel
+
+* AC IN: power input jack
+* POWER: on/off switch
+* USB: USB-B jack
+* MIDI IN: MIDI DIN input
+* MIDI OUT: MIDI DIN output
+* DIGITAL OUT: jack
+* CTL 1,2: jack for foot-switch
+* CTL 3,4/EXP PEDAL: jack for foot-switch and expression pedal
+* INDIVIDUAL A: audio output jack
+* INDIVIDUAL B: audio output jack
+* MASTER OUT L (MONO): audio output 1/4" TS jack
+* MASTER OUT R: audio output 1/4" TS jack
+
+## USB MIDI instructions
+
+## SETTING THE MIDI CHANNEL
+
+* With playback stopped, press [EDIT].
+* Move the cursor to the MIDI icon, and press [ENTER].
+* Move the cursor to the "SETTING" icon and press [ENTER].
+* Move the cursor to the "MIDI Ch. Drum" or "MIDI Ch. Bass" and use the VALUE dial to specify the MIDI channel for each.
+
+Drum and bass should use different MIDI channels.
+Program change messages are received on the MIDI channel of the drum part.
