@@ -15,9 +15,9 @@ maquinitas-notes includes notes for each instrument, including:
 
 ## Available notes  
 
-* [KORG MR-16](notes/korg-mr-16.txt)
-* [Roland TR-08](notes/roland-tr-08.txt)
-* [Roland TR-09](notes/roland-tr-09.txt)
+* [KORG MR-16](notes/korg-mr-16.md)
+* [Roland TR-08](notes/roland-tr-08.md)
+* [Roland TR-09](notes/roland-tr-09.md)
 
 ## In progress
 
@@ -28,7 +28,7 @@ maquinitas-notes includes notes for each instrument, including:
 
 ## Contribute
 
-You can add new instruments using this [template](/notes/template.txt), and also you can fix mistakes via GitHub issues or pull requests.
+You can add new instruments using this [template](/notes/template.md), and also you can fix mistakes via GitHub issues or pull requests.
 
 ## License  
 
