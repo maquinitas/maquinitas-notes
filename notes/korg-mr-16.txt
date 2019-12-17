@@ -1,0 +1,13 @@
+# KORG MR-16 MIDI RHYTHM SOUND UNIT
+
+## Description
+
+KORG MR-16 is a drum machine.
+
+## Power
+
+## Drivers and installation
+
+## Front panel
+
+## Back panel
