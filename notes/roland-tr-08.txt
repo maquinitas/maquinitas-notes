@@ -1,4 +1,4 @@
-# maquinitas-notes - Roland TR-08
+# Roland TR-08
 
 ## Installation
 
