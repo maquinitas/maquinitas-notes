@@ -15,6 +15,7 @@ maquinitas-notes includes notes for each instrument, including:
 
 ## Available notes  
 
+* [MFB Tanzbär Lite](notes/mfb-tanzbar-lite.md)
 * [KORG MR-16](notes/korg-mr-16.md)
 * [Roland TR-08](notes/roland-tr-08.md)
 * [Roland TR-09](notes/roland-tr-09.md)
