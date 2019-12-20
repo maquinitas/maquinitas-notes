@@ -101,7 +101,7 @@ MFB Tanzbär Lite back panel features:
 
 * Power jack, for 12 volt DC 500 mA center-positive power supply.
 * On/off switch
-* 5x 1/8 inch individual outputs for the drum voices:
+* 5x 1/8 inch TS mono individual outputs for the drum voices:
   * Bass
   * Snare
   * Claps
@@ -109,4 +109,20 @@ MFB Tanzbär Lite back panel features:
   * Hihat
 * MIDI IN jack, 5-pin DIN
 * MIDI OUT jack, 5-pin DIN
-* Master audio output, 1/4 inch TS jack.
+* Master audio output, 1/4 inch TRS stereo jack.
+
+## Audio routing
+
+MFB Tanzbär Lite has one master audio output (1/4 inch TRS stereo jack), and 5 additional instrument outputs (1/8 inch mono jack), one each for bassdrum, snare. clap, tom/conga, and hihat.
+
+Rimshot, cowbell, clave and cymbal are only available from the master output.
+
+When plugging a cable into an instrument output, this instrument will be disconnected from the master output.
+
+## MIDI specs
+
+MIDI input receives MIDI clock, MIDI notes, MIDI controller data, and MIDI program change data.
+
+MIDI output transmits note data of all tracks, MIDI clock, MIDI song position pointer data, and MIDI program change data.
+
+Any incoming MIDI on the input is also output through the output.
