@@ -4,20 +4,28 @@
 
 MFB Tanzbär Lite is a drum machine with an internal step sequencer.
 
-The sound generation includes drum instruments 
+MFB Tanzbär Lite has 10 analog drum with tweakable and storable parameters. Each voice has its own individual potentiometers for levels, and there is also a master level (not programmable in memory).
 
-Sound generation:
-• Ten drum instruments with up to four tweakable and storable parameters (real analog instruments).
-• Level pots on all drum instruments plus master volume (not programmable in memory).
-
+MFB Tanzbär Lite's sequencer characteristics include:
+* 64x patterns, in 4 banks of 16 patterns each.
+* 11x tracks triggering the drum instruments
+* 5x LFO for pitch modulation (bassdrum, clap, tom/conga, cowbell, and claves).
+* 1-32 steps and 5 settings for scaling.
+* A/b pattern toggle.
+* Multiple triggering with roll/flam. 
+* Chaining patterns, not programmable in memory.
 
 ## Power
 
+* The power supply for this instrument has the following specs:
 
+* 12 volt DC
+* 500 mA
+* center-positive
 
 ## Drivers and installation
 
-MFB Tanzbär Lite needs no drivers or 
+MFB Tanzbär Lite needs no drivers or installation.
 
 ## Front panel
 
