@@ -126,3 +126,81 @@ MIDI input receives MIDI clock, MIDI notes, MIDI controller data, and MIDI progr
 MIDI output transmits note data of all tracks, MIDI clock, MIDI song position pointer data, and MIDI program change data.
 
 Any incoming MIDI on the input is also output through the output.
+
+## GUI operation
+
+Most of Tanzbär Lite's buttons cover more than one single function. Depending on the selected mode, the function of the buttons will change.
+
+The main purpose of the function buttons (left-hand side) is selecting the operation mode (Play or Record), selecting patterns and banks as well as starting and stopping the sequencer and toggling between the A/B parts of a pattern. These are dual-function keys (except the Select key).
+The Step keys (lower row) are also dual- or even triple-function keys. Depending on the operation mode, they change their function. In Play mode, they mute tracks and control various playback functions (e.g. shuffle, pattern length, scale, and A/B toggle).
+In Record mode, they are used to program the step sequencer. Apart from that, there is
+an additional sound parameter hidden behind them which cannot be accessed directly via the sound controls. The Step keys are also required when it comes to storing, clearing, and copying patterns.
+The Shift key (bottom left) accesses the „shift function“ resp. second function of the other keys. On the front panel, the shift functions are always labelled in a darker font so make sure you put your glasses on (or turn on the flood lights).
+Depending on the dedicated function, the shift function works in two different ways:
+When a shift function only has two settings (e.g. on/off), or when all available values can directly be accessed in the next lower level, simply hit the shift key and keep it depressed. Now hit the desired step key to toggle between the two possible settings or enter the desi- red value. For example, the start/stop function and the selection of the four Accent levels works just this way.
+
+## Pattern management
+
+To save the current pattern:
+* if necessary hold SHIFT and press Patt/Bank key to change the current preset bank.
+* Hold SHIFT press the button STEP 5 (STORE PATTERN). All 16 LEDs will start flashing.
+* Release SHIFT.
+* Press STEP key to save the current preset in the corresponding memory location.
+* If necessary, press SHIFT any time to abort the store pattern function.
+
+To clear the pattern:
+* Hold SHIFT and press STEP 6 (CLEAR PATTERN) twice.
+
+Patterns with more than 16 steps allow for erasing either their A or B section:
+* Press PATT key to select the desired pattern action.
+* Hold SHIFT and press STEP 6 (CLEAR PATTERN).
+
+Sending pattern bank:
+Using the SHIFT function you can send the current pattern bank to another MIDI device.
+* Hold SHIFT and press STEP KEY 9 (DUMP PATT BANK).
+* The LEDs of the step keys visualze the data upload progress.
+* The LED of the corresponding pattern that is being transmitted is flashing.
+* As soon as the data is completed, the function will exit automatically.
+
+Receive pattern bank:
+* As long as the sequencer is inactive, the instrument will always be ready to receive a pattern bank as SysSex datafile.
+* The LEDs of the step keys will tell you about the progress of data transmission.
+
+## MIDI implementation
+
+MIDI controller assignment
+
+MIDI_CC_BD_TONE     002
+MIDI_CC_BD_DECAY    064
+MIDI_CC_BD_TUNE     003
+
+MIDI_CC_SD_TONE     011
+MIDI_CC_SD_NOISE    013
+MIDI_CC_SD_DECAY    067
+
+MIDI_CC_CP_DECAY    075
+MIDI_CC_CP_FILTER   018
+MIDI_CC_CP_ATTACK   076
+MIDI_CC_CP_TRIGGER  077
+
+MIDI_CC_TT_TUNE     019
+MIDI_CC_TT_DECAY    020
+
+MIDI_CC_CO_DECAY    078
+MIDI_CC_CO_TUNE     079
+
+MIDI_CC_CO_PAN      082
+MIDI_CC_TT_PAN      073
+
+MIDI_CC_CB_TUNE     084
+MIDI_CC_CB_DECAY    085
+
+MIDI_CC_CL_DECAY    086
+MIDI_CC_CL_TUNE     087
+
+MIDI_CC_CY_DECAY    088
+MIDI_CC_CY_TONE     092
+
+MIDI_CC_CY_TUNE     089
+MIDI_CC_OH_DECAY    090
+MIDI_CC_HH_DECAY    091
